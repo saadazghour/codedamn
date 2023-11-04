@@ -2,6 +2,8 @@ import Image from "next/image";
 import SideBar from "@/SideBar";
 import Link from "next/link";
 
+// TODO: Codedamn
+
 export default function Home() {
   return (
     <main className="flex flex-col items-start justify-between min-h-screen pl-2 py-28">
